@@ -9,8 +9,6 @@ This plugin also includes a virtual height extension system, allowing players to
 - [ ] **Per-player chunk rendering:** Each player can see different versions of the same area.
 - [ ] **Virtual domains:** Isolated environments for housing, private builds, or game instances.
 - [ ] **Extended vertical space:** Simulate infinite height by layering world slices.
-- [ ] **Optimized for performance:** Packet injection only affects targeted players.
-- [ ] **Powered by ProtocolLib and Paper:** Uses advanced packet manipulation for seamless integration.
 
 ## Installation
 
